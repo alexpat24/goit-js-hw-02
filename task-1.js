@@ -22,5 +22,4 @@ console.log(getItemsString([5, 10, 15]));
 2 - 10
 3 - 15
 `;
-
 <script type="module-2"></script>;

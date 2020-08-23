@@ -20,3 +20,5 @@ console.log(formatString("Vestibulum facilisis, purus nec pulvinar iaculis."));
 console.log(
   formatString("Vestibulum facilisis, purus nec pulvinar iaculis.", 30)
 );
+
+<script type="module-2"></script>;
